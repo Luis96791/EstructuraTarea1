@@ -43,3 +43,15 @@
 1422400908 source:/home/turupawn/Projects/Clases/Estructura/Tarea1/Evaluador.cpp
 	"Evaluador.h"
 
+1456776825 source:c:\users\luis\documents\github\estructuratarea1\evaluador.cpp
+	"Evaluador.h"
+
+1456776825 c:\users\luis\documents\github\estructuratarea1\evaluador.h
+	<iostream>
+	<stack>
+
+1456780113 source:c:\users\luis\documents\github\estructuratarea1\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<stack>
+
